@@ -12,6 +12,7 @@
         <module>monitoring-server</module>
         <module>monitoring-service</module>
         <module>command-line-runner</module>
+        <module>serving-web-content</module>
     </modules>
 
     <properties>

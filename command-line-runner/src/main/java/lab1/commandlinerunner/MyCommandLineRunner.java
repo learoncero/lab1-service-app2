@@ -1,4 +1,4 @@
-package lab1.commandlinerunner.mycommandlinerunner;
+package lab1.commandlinerunner;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
