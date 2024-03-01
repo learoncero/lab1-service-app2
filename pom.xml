@@ -13,6 +13,7 @@
         <module>monitoring-service</module>
         <module>command-line-runner</module>
         <module>serving-web-content</module>
+        <module>hello-world-rest-service</module>
     </modules>
 
     <properties>
