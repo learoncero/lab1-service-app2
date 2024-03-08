@@ -14,6 +14,7 @@
         <module>command-line-runner</module>
         <module>serving-web-content</module>
         <module>hello-world-rest-service</module>
+        <module>spring-boot-default-logging</module>
     </modules>
 
     <properties>

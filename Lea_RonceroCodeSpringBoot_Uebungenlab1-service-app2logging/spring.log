@@ -1,0 +1,26 @@
+2024-03-08T11:46:10.007+01:00  INFO 4036 --- [main] l.s.CourseTrackerApplication             : Starting CourseTrackerApplication using Java 21.0.2 with PID 4036 (D:\Lea_Roncero\Code\SpringBoot_Uebungen\lab1-service-app2\spring-boot-default-logging\target\classes started by learo in D:\Lea_Roncero\Code\SpringBoot_Uebungen\lab1-service-app2)
+2024-03-08T11:46:10.010+01:00  INFO 4036 --- [main] l.s.CourseTrackerApplication             : No active profile set, falling back to 1 default profile: "default"
+2024-03-08T11:46:11.916+01:00  INFO 4036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-03-08T11:46:11.935+01:00  INFO 4036 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-08T11:46:11.937+01:00  INFO 4036 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2024-03-08T11:46:12.159+01:00  INFO 4036 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-08T11:46:12.160+01:00  INFO 4036 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2019 ms
+2024-03-08T11:46:12.925+01:00  WARN 4036 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-03-08T11:46:12.929+01:00  INFO 4036 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-03-08T11:46:12.952+01:00  INFO 4036 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-03-08T11:46:12.978+01:00 ERROR 4036 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
