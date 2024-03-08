@@ -17,6 +17,7 @@
         <module>spring-boot-default-logging</module>
         <module>command-line-testdata</module>
         <module>spring-boot-logging-with-log4j</module>
+        <module>spring-inter-service</module>
     </modules>
 
     <properties>
