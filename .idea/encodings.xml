@@ -11,6 +11,12 @@
     <file url="file://$PROJECT_DIR$/monitoring-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monitoring-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monitoring-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restaurant-homepage/restaurant-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restaurant-homepage/restaurant-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restaurant-homepage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restaurant-homepage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restaurant-homepage/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restaurant-homepage/user-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serving-web-content/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serving-web-content/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-default-logging/src/main/java" charset="UTF-8" />
