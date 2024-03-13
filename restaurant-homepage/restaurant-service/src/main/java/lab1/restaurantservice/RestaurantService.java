@@ -11,7 +11,6 @@ import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 @RestController
-@CrossOrigin(origins = "http://localhost:63342")
 public class RestaurantService {
     private static int orderNumber = 0;
     public static void main(String[] args) {
