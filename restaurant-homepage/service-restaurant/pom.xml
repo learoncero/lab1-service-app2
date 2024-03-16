@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>org.example</groupId>
-    <artifactId>restaurant-service</artifactId>
+    <artifactId>service-restaurant</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

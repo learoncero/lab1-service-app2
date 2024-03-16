@@ -19,8 +19,8 @@
         <module>spring-boot-logging-with-log4j</module>
         <module>spring-inter-service</module>
         <module>restaurant-homepage</module>
-        <module>restaurant-homepage/restaurant-service</module>
-        <module>restaurant-homepage/user-service</module>
+        <module>restaurant-homepage/service-restaurant</module>
+        <module>restaurant-homepage/service-user</module>
     </modules>
 
     <properties>

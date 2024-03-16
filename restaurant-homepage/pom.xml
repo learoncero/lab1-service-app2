@@ -18,8 +18,8 @@
     <description>Demo project for Spring Boot</description>
 
     <modules>
-        <module>restaurant-service</module>
-        <module>user-service</module>
+        <module>service-restaurant</module>
+        <module>service-user</module>
     </modules>
 
     <properties>
